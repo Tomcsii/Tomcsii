@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tomcsii
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning programming languages in gr 12
-- 📫 How to reach me ...dont 
+
 
 <!---
 Tomcsii/Tomcsii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
