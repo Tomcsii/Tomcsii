@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomcsii
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently Java and Python 
+- 🌱 I’m currently learning Java and Python 
 
 
 <!---
