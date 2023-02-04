@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Tomcsii
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java and Python 
+- 👋 Hi, I’m Tamás
+- I am currently a University student learning computer science and programming.
+- I have expereince with and have completed projects in Python, Java and HTML 
+- I have an intreset in a variety of programming concepts such as, AI, Software engineering, Game Development, Algorithims and many more
 
 
 <!---
